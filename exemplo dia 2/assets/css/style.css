@@ -1,0 +1,58 @@
+body {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 20% 10px 20%;
+ } 
+
+mark.um, h1 {
+    font-size: 3rem;
+    background: none;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+mark.dois {
+    background-color:rgb(211, 201, 190);;
+    text-align: center;
+}
+
+hr {
+    border: 0;
+    border-top: 1.5px solid rgb(0, 0, 0);
+    opacity: 0.5;
+ }
+ 
+h2 {
+    text-align: center;
+}
+
+img {
+    border-radius: 100%;
+    border: 3px solid rgb(0, 0, 0);
+    width: 50px;
+    height: 50px;
+    margin-right: 1rem;
+    margin-bottom: 10px;
+}
+
+a {
+    font-size: large;
+    color: black;
+    margin: 0 1rem 0 1rem;
+}
+
+p {
+    text-indent: 50px;
+}
+
+i {
+    text-align: center;
+}
+
+.aligned {
+    display: flex;
+    align-items: center;
+    margin: 0 auto auto auto;
+    font-size: 1.3rem;
+}
